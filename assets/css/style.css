@@ -197,7 +197,9 @@ h6 {
   text-decoration: none;
   color: #fff;
 }
-
+/* .menu_img{
+  height: 100px;
+} */
 .nav-menu a:hover i,
 .nav-menu .active i,
 .nav-menu .active:focus i,
